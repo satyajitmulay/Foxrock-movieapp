@@ -1,7 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useEffect } from 'react'
 import { Link, NavLink, useLocation, useNavigate } from 'react-router-dom'
-import logo from "../assets/logo.png"
 import "../App.css"
 import userIcon from "../assets/user.png"
 import { IoSearchOutline } from 'react-icons/io5'
